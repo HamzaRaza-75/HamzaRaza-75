@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate Full Stack Developer on a journey into AI</h3>
+<h1 align="center">Hi 👋, I'm Muhammad Hamza Raza</h1>
+<h3 align="center">A passionate Full Stack Developer</h3>
 
 ---
 
