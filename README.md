@@ -5,7 +5,7 @@
 
 🚀 I love building web and mobile apps that are clean, fast, and user-friendly.  
 🔭 Currently exploring the world of AI using Python.  
-📫 How to reach me: [your.email@example.com] or [LinkedIn profile]  
+📫 How to reach me: Email : hamzarazakhan2323@gmail.com or Linked in : https://www.linkedin.com/in/hamza-raza-7a5899276  
 🌱 Constantly learning and evolving.
 
 ---
@@ -55,13 +55,13 @@
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaRaza-75&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaRaza-75&layout=compact&theme=radical" width="48%" />
 </p>
 
 ---
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)
-- 📫 Email: your.email@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/hamza-raza-7a5899276))
+- 📫 Email: hamzarazakhan2323@gmail.com
