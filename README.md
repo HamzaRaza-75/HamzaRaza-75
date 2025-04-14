@@ -65,5 +65,5 @@
 
 ### 🤝 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/hamza-raza-7a5899276))
+- 💼 [LinkedIn] ([https://www.linkedin.com/in/your-link/](https://www.linkedin.com/in/hamza-raza-7a5899276))
 - 📫 Email: hamzarazakhan2323@gmail.com
