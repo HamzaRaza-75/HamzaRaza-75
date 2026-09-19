@@ -124,27 +124,22 @@ My current focus is on **AI engineering and backend systems**, particularly AI a
 - Database design and optimization
 - Vector search and retrieval systems
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaRaza-75&show_icons=true&theme=vue&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaRaza-75&layout=compact&theme=vue&hide_border=true" width="48%"/>
+</p>
+
 ---
 
-## 🔎 RAG & Vector Search
+### 🤝 Let's Connect
 
-A major area of my AI engineering work is building retrieval-based AI systems.
+- 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-hamza-raza-ceo)  
+- 📫 Email: **hamzarazakhan2323@gmail.com**  
+- 💡 Open to freelance, collaborations, and exciting full-time roles in full-stack, AI, and cloud domains!
 
-```text
-Documents
-    ↓
-Document Processing
-    ↓
-Chunking
-    ↓
-Embeddings
-    ↓
-Vector Database
-    ↓
-Vector / Semantic Search
-    ↓
-Relevant Context
-    ↓
-LLM
-    ↓
-Generated Response
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – Cory House  
+Let’s write clean code and build cool stuff! 🚀
