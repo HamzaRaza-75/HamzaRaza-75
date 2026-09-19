@@ -1,12 +1,10 @@
 ````markdown
 <h1 align="center">Hi 👋, I'm Muhammad Hamza Raza</h1>
 
-<h3 align="center">
-🚀 AI Engineer | Software Engineer | Full-Stack Developer | AI Systems & Backend Engineering
-</h3>
+<h3 align="center">🚀 AI Engineer | Software Engineer | Full-Stack Developer</h3>
 
 <p align="center">
-  Building scalable software, AI-powered applications, intelligent agents, and production-ready backend systems.
+  Building scalable backend systems, AI-powered applications, SaaS products, and intelligent automation.
 </p>
 
 ---
@@ -15,21 +13,19 @@
 
 I'm a Software Engineer and AI Engineer with **8 years of experience** building production web, mobile, backend, SaaS, fintech, and AI-powered applications.
 
-My current focus is on building **AI-powered software systems**, including AI agents, RAG applications, intelligent automation, LLM integrations, and scalable backend infrastructure.
+My current focus is on **AI engineering and backend systems**, particularly AI agents, RAG applications, LLM integrations, intelligent automation, and scalable application architecture.
 
-I enjoy working across the entire engineering lifecycle — from **system design and architecture to development, deployment, debugging, and production operations**.
-
-- 🤖 Building **AI Agents, Agentic AI & LLM-powered applications**
-- 🧠 Working with **RAG, embeddings, vector search & semantic search**
-- 🔗 Building AI workflows with **LangChain & LangGraph**
-- ⚡ Developing scalable backends with **Python, FastAPI, Node.js & NestJS**
-- 🏗️ Designing **REST APIs, microservices & distributed systems**
-- 🗄️ Working with **PostgreSQL, MongoDB, Redis & vector databases**
-- ☁️ Deploying applications using **AWS, Docker, Nginx & Linux**
-- 📱 Building cross-platform applications with **React Native & Expo**
-- 🎙️ Building real-time systems using **LiveKit, Twilio, WebRTC & WebSockets**
-- 🔐 Working with authentication, authorization, RBAC, OAuth & API security
-- 🚀 Interested in **AI engineering, system architecture, SaaS and automation**
+- 🤖 Building **AI Agents and Agentic AI systems**
+- 🧠 Working with **RAG, embeddings, vector search, and semantic search**
+- 🔗 Building AI workflows with **LangChain and LangGraph**
+- ⚡ Building scalable backends with **Python, FastAPI, Node.js, and NestJS**
+- 🏗️ Designing **REST APIs, microservices, and distributed systems**
+- 🗄️ Working with **PostgreSQL, MongoDB, Redis, and vector databases**
+- ☁️ Deploying applications with **AWS, Docker, Nginx, and Linux**
+- 📱 Building cross-platform applications with **React Native and Expo**
+- 🎙️ Working with **LiveKit, Twilio, WebRTC, and WebSockets**
+- 🔐 Building secure applications with **JWT, OAuth, RBAC, and API security**
+- 🚀 Interested in **AI, SaaS, automation, system architecture, and distributed systems**
 
 ---
 
@@ -39,15 +35,10 @@ I enjoy working across the entire engineering lifecycle — from **system design
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?logo=langchain&logoColor=white)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-6A5ACD)
-![AI Agents](https://img.shields.io/badge/AI-Agents-FF6F00)
-![Vector Search](https://img.shields.io/badge/Vector-Search-0096FF)
-![OCR](https://img.shields.io/badge/OCR-Document%20Processing-4285F4)
-
-**Areas I work with:**
 
 - Large Language Model (LLM) applications
-- AI Agents & Agentic AI
+- AI Agents
+- Agentic AI
 - LangChain
 - LangGraph
 - Retrieval-Augmented Generation (RAG)
@@ -58,7 +49,7 @@ I enjoy working across the entire engineering lifecycle — from **system design
 - Multi-step AI Workflows
 - Prompt Engineering
 - AI Automation
-- OCR & Document Processing
+- OCR and Document Processing
 - LLM API Integration
 
 ---
@@ -69,23 +60,23 @@ I enjoy working across the entire engineering lifecycle — from **system design
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 
-- RESTful API Design
 - FastAPI
 - Node.js
 - NestJS
 - Express.js
 - Laravel
+- REST APIs
 - GraphQL
 - Microservices
 - Event-driven systems
 - Background jobs
 - Asynchronous processing
 - Third-party API integrations
-- Authentication & Authorization
+- Authentication and authorization
 - Role-Based Access Control (RBAC)
 
 ---
@@ -102,13 +93,13 @@ I enjoy working across the entire engineering lifecycle — from **system design
 
 - React.js
 - Next.js
-- React Native
-- Expo
 - JavaScript
 - TypeScript
+- React Native
+- Expo
 - Tailwind CSS
-- Responsive Web Applications
-- Cross-platform Mobile Applications
+- Responsive web applications
+- Cross-platform mobile applications
 
 ---
 
@@ -130,17 +121,15 @@ I enjoy working across the entire engineering lifecycle — from **system design
 - pgvector
 - Pinecone
 - Neo4j
-- Vector Databases
-- Database Design & Optimization
-- Vector Search & Retrieval Systems
+- Vector databases
+- Database design and optimization
+- Vector search and retrieval systems
 
 ---
 
 ## 🔎 RAG & Vector Search
 
-A major area of my current engineering work is building retrieval-based AI systems.
-
-Typical architecture:
+A major area of my AI engineering work is building retrieval-based AI systems.
 
 ```text
 Documents
@@ -153,7 +142,7 @@ Embeddings
     ↓
 Vector Database
     ↓
-Semantic / Vector Search
+Vector / Semantic Search
     ↓
 Relevant Context
     ↓
@@ -162,16 +151,15 @@ LLM
 Generated Response
 ````
 
-Technologies include:
+Technologies:
 
-**PostgreSQL + pgvector • Embeddings • Vector Databases • Semantic Search • LangChain • LangGraph • LLM APIs**
+**PostgreSQL • pgvector • Embeddings • Vector Databases • Semantic Search • LangChain • LangGraph • LLM APIs**
 
 ---
 
 ## ⚡ Real-Time Systems
 
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?logo=webrtc\&logoColor=white)
-![WebSockets](https://img.shields.io/badge/WebSockets-010101)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?logo=twilio\&logoColor=white)
 
 * LiveKit
@@ -179,13 +167,13 @@ Technologies include:
 * WebRTC
 * WebSockets
 * Socket.IO
-* Real-time audio/video
+* Real-time audio and video
 * Voice communication systems
 * Real-time event processing
 
 ---
 
-## ☁️ Cloud, DevOps & Infrastructure
+## ☁️ Cloud & DevOps
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws\&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
@@ -204,7 +192,7 @@ Technologies include:
 * Server configuration
 * Deployment automation
 * Networking
-* Monitoring & logging
+* Monitoring and logging
 * Production troubleshooting
 * System administration
 
@@ -215,16 +203,14 @@ Technologies include:
 * JWT
 * OAuth
 * Role-Based Access Control (RBAC)
-* Authentication & Authorization
-* API Security
-* Secure Application Configuration
-* Environment & Secret Management
+* Authentication and authorization
+* API security
+* Secure application configuration
+* Environment and secret management
 
 ---
 
 ## 🏗️ Software Engineering
-
-I enjoy working beyond individual features and thinking about the complete system.
 
 ### Architecture
 
@@ -244,7 +230,8 @@ I enjoy working beyond individual features and thinking about the complete syste
 * Agile / Scrum
 * Code Reviews
 * Git-based Development
-* Testing & Debugging
+* Testing
+* Debugging
 * Performance Optimization
 * Technical Documentation
 * Production Troubleshooting
@@ -252,28 +239,27 @@ I enjoy working beyond individual features and thinking about the complete syste
 
 ---
 
-## 🚀 What I'm Currently Exploring
+## 🚀 Currently Exploring
 
-I'm currently going deeper into:
-
-* 🧠 Machine Learning & Deep Learning
+* 🧠 Machine Learning
+* 🔥 Deep Learning
 * 🤖 Agentic AI
 * 🕸️ Multi-Agent Systems
 * 🔎 Advanced RAG Architectures
-* 🧩 AI Tool Calling & Agent Workflows
+* 🧩 AI Tool Calling and Agent Workflows
 * 🏗️ Distributed Systems
-* ⚡ High-performance backend systems
-* ☁️ Cloud architecture
-* 🔐 Application & API security
-* 📊 AI-powered SaaS products
+* ⚡ High-performance Backend Systems
+* ☁️ Cloud Architecture
+* 🔐 Application and API Security
+* 📊 AI-powered SaaS Products
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HamzaRaza-75&show_icons=true&theme=vue&hide_border=true" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaRaza-75&layout=compact&theme=vue&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HamzaRaza-75&show_icons=true&theme=vue&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaRaza-75&layout=compact&theme=vue&hide_border=true" width="48%" />
 </p>
 
 ---
@@ -285,18 +271,11 @@ I'm open to connecting with engineers, founders, companies, and teams working on
 **AI • SaaS • Backend Engineering • Full-Stack Development • Automation • Cloud • Distributed Systems**
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/hamza-raza-7a5899276)
-* 📫 **Email:** [hamzarazakhan2323@gmail.com](mailto:hamzarazakhan2323@gmail.com)
-* 🌍 **Location:** Pakistan
-* 💡 Open to **remote engineering roles, AI projects, technical collaborations, and interesting product opportunities**
+* 📫 Email: **[hamzarazakhan2323@gmail.com](mailto:hamzarazakhan2323@gmail.com)**
+* 🌍 Location: **Pakistan**
+* 💡 Open to **remote engineering roles, AI projects, technical collaborations, and product opportunities**
 
 ---
 
-> "Code is like humor. When you have to explain it, it's bad."
-> — Cory House
-
-### 🚀 Build. Learn. Ship. Repeat.
-
-```
-
-I intentionally changed the positioning from **“AI Enthusiast”** to **“AI Engineer”** because your current skill set and resume now describe actual production AI engineering: **RAG, agents, LangChain/LangGraph, vector search, FastAPI, cloud deployment, real-time systems, and backend architecture**.
+<h3 align="center">🚀 Build. Learn. Ship. Repeat.</h3>
 ```
